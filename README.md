@@ -5,6 +5,8 @@ This project focuses on leveraging financial data and quantitative techniques to
 
 [Spreadsheet ods format](https://pages.github.com/](https://github.com/angusleebusiness/simple-portfolio-risk-optimizer-sharpe-and-sortino-ratio/blob/main/Portfolio%20Optimization%20Personal%20Project%20Finalized%20Spreadsheet%20(Fully%20Optimized).ods))
 
+[Canva Link w/ 🔥 animations](https://www.canva.com/design/DAGrzJZ8qoA/fbJS8rNiaKAiLDugO4W2Eg/view)
+
 # Highlights
 Data-Driven Portfolio Construction: Utilizes historical stock data to analyze asset performance and correlations.
   - Implements algorithms to identify the efficient frontier, showcasing portfolios that offer the highest expected return for a given level of risk or the lowest risk for a given level of return.
